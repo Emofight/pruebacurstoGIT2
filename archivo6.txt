@@ -1,0 +1,3 @@
+viejo nombre a nuevo nombre
+git add nuevo nombre
+git rm viejo nombre
